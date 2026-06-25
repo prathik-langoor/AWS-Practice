@@ -7,6 +7,7 @@ function App() {
     <>
       <section style={{ backgroundColor: 'white' }}>
         <h1 style={{ color: 'black' }}>Sample App for hosting in AWS</h1>
+        <p>testing for Actions Run</p>
         <img
           style={{ display: 'block', width: '400px', height: '400px', margin: '20px auto' }}
           alt="Sample Image"
